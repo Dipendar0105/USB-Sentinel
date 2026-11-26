@@ -1,0 +1,3 @@
+# USB Sentinel MVP v2
+# Python 3.10+ on Windows 10/11
+reportlab>=4.0
